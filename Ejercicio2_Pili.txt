@@ -9,6 +9,8 @@ y determine los siguientes aspectos.
 4: Si el segundo es mayor al primero
 
 
+
+
 2: Determina que el resultado tienen los siguientes ejemplos
 
 print(not True)
